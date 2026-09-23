@@ -36,3 +36,6 @@ coverage/
 .vscode/
 __pycache__/
 *.py[cod]
+
+# 陶艺窑位装烧台本地存档
+kiln_save.json
